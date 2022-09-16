@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wendy</h1>
-<h3 align="center">Coding enthusiast 💻 trying to dedicate to game development</h3>
+<h3 align="center">Coding enthusiast 💻 trying to dedicate to game development. Currently studying software development career.</h3>
 
 <p align="left"> <a href="https://twitter.com/wendyrivero98" target="blank"><img src="https://img.shields.io/twitter/follow/wendyrivero98?logo=twitter&style=for-the-badge" alt="wendyrivero98" /></a> </p>
 
