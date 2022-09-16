@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/wendyrivero98" target="blank"><img src="https://img.shields.io/twitter/follow/wendyrivero98?logo=twitter&style=for-the-badge" alt="wendyrivero98" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#, Lua**
 
 - 📫 How to reach me **riverowendytatiana@gmail.com**
 
