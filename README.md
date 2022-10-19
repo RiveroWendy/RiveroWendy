@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riverowendy&label=Profile%20views&color=0e75b6&style=flat" alt="riverowendy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wenwdev" target="blank"><img src="https://img.shields.io/twitter/follow/wenwdev?logo=twitter&style=for-the-badge" alt="wenwdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/wendyrivero98" target="blank"><img src="https://img.shields.io/twitter/follow/wendyrivero98?logo=twitter&style=for-the-badge" alt="wendyrivero98" /></a> </p>
 
 - 🔭 I’m currently working on [Return Of The Detectives](https://github.com/Aturax/ReTurn-of-the-Detectives)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wenwdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wenwdev" height="30" width="40" /></a>
+<a href="https://twitter.com/wendyrivero98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wendyrivero98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wendy-rivero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendy-rivero" height="30" width="40" /></a>
 </p>
 
