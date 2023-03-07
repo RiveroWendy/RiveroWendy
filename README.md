@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CV Helper](https://github.com/RiveroWendy/CV-Helper)
 
-- 🌱 I’m currently learning **C, LUA & C#**
+- 🌱 I’m currently learning **C & LUA**
 
 - 📫 How to reach me **RiveroWendyTatiana@gmail.com**
 
