@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wendy</h1>
 <h3 align="center">Coding enthusiast with a passion for web development and videogames development</h3>
 
-- 🔭 I’m currently working on [CV Helper](https://github.com/RiveroWendy/CV-Helper)
-
 - 🌱 I’m currently learning **C & LUA**
 
 - 📫 How to reach me **RiveroWendyTatiana@gmail.com**
