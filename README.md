@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wendy</h1>
 <h3 align="center">A passionate videogame developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Creperia](https://github.com/Aturax/Creperia)
+- 🔭 I’m currently working on [Creperia](https://github.com/Aturax/LaCreperia)
 
 - 🌱 I’m currently learning **C & LUA**
 
